@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>plugin</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.slobzheninov.ConvertCase</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ConvertCase</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string> <!-- 1.0 -->
+	<key>CFBundleVersion</key>
+	<string>2</string> <!-- 123 -->
+	<key>UpdateFeedURL</key>
+	<string>https://raw.githubusercontent.com/slobzheninov/ConvertCase/master/ConvertCase.glyphsFilter/Contents/Info.plist</string>
+	<key>productPageURL</key>
+	<string>https://github.com/slobzheninov/ConvertCase</string>
+	<key>productReleaseNotes</key>
+	<string>Added a slider.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright, Alexander Slobzheninov, 2021</string>
+	<key>NSPrincipalClass</key>
+	<string>ConvertCase</string>
+	<key>PyMainFileNames</key>
+	<array>
+		<string>plugin.py</string>
+	</array>
+</dict>
+</plist>
